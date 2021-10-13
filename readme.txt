@@ -1,3 +1,2 @@
-t is a version control system.
-t is a distributed version control system.
-Git is free software.Git is free softwafe......
+It is a version control system.
+It is a distributed version control system.
